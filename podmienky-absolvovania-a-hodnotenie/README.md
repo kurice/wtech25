@@ -18,7 +18,7 @@ FX - nedostatočne, menej ako 56 bodov
 
 ## Projekt
 
-Počas semestra študenti vypracujú projekt demonštrujúci webovú aplikáciu - eshop. Študenti pracujú v trojici, v tíme.
+Počas semestra študenti vypracujú projekt demonštrujúci webovú aplikáciu - eshop. Študenti pracujú vo dvojici, v tíme.
 
 Projekt je hodnotený max. 48+4 bodmi a vypracováva sa priebežne počas semestra, čo je prezentované a bodované v dvoch fázach a v jednom kontrolnom bode:
 
