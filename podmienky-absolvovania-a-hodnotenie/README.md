@@ -3,7 +3,7 @@
 ## Hodnotenie
 
 **Projekt:** 52 (24+24+4) bodov  
-**Priebežný test:** 8 bodov (minimum 3 body)  
+**Priebežný test:** 8 bodov (minimum 3.5 boda)  
 **Záverečný test (skúška):** 40 bodov  
 **Spolu:** 100 (52 + 8 + 40) bodov
 
