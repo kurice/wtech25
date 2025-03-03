@@ -317,7 +317,7 @@ Na jednej strane ide o rokmi zaužívanú konvenciu komunitou, na strane druhej 
 
 
 ### Záver
-Vzhľadom na súčasný stav, odporúčam používať úrovne nadpisov na vyjadrenie štruktúry v dokumentoch v kombinácii s rozdeľujúcimi elementami (napr. ``<section>``, ``<article>``) tak, že každá sekcia bude mať svoj nadpis. V dokumente bude jeden nadpis prvej úrovne ``<h1>``. Napríklad:
+**Používame úrovne nadpisov na vyjadrenie štruktúry v dokumentoch v kombinácii s rozdeľujúcimi elementami** (napr. ``<section>``, ``<article>``) tak, že každá sekcia bude mať svoj nadpis. V dokumente bude jeden nadpis prvej úrovne ``<h1>``. Napríklad:
 
 ```html
 <body>
