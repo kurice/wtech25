@@ -11,3 +11,7 @@
 4. [CSS - štandardný tok, rozloženie stránky (float, css tabuľky, grid system), responzívny dizajn (vs. statický, tekutý, adaptívny)](zdroje/04-WT-css-responzivny-dizajn.pdf)
 
    - [Príklady z prednášky](zdroje/priklady-04-WT-css.zip)
+
+5. [Zostavenie na strane servera - SSR architektúra, REST, Laravel MVC úvod, prvá aplikácia](zdroje/05-WT-web-ssr-rest-laravel-uvod.pdf)
+
+   - [PHP rýchlokurz](PHP-rychlokurz/)
