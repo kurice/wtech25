@@ -15,3 +15,7 @@
 5. [Zostavenie na strane servera - SSR architektúra, REST, Laravel MVC úvod, prvá aplikácia](zdroje/05-WT-web-ssr-rest-laravel-uvod.pdf)
 
    - [PHP rýchlokurz](PHP-rychlokurz/)
+
+6. [Laravel - základné koncepty architektúry, Blade, ORM (Eloquent), vzťahy medzi modelmi](zdroje/06-WT-laravel-koncepty-architetury-blade-orm-vztahy.pdf)
+
+7. [Laravel - sedenia (sessions), cache, validácia, logovanie, obsluha chýb (error handling), udalosti (events), autorizácia, lokalizácia (i18n), jednotkové testovanie (unit testing)](zdroje/07-WT-laravel-technologie.pdf)
