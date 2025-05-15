@@ -19,5 +19,10 @@
 6. [Laravel - základné koncepty architektúry, Blade, ORM (Eloquent), vzťahy medzi modelmi](zdroje/06-WT-laravel-koncepty-architetury-blade-orm-vztahy.pdf)
 
 7. [Laravel - sedenia (sessions), cache, validácia, logovanie, obsluha chýb (error handling), udalosti (events), autorizácia, lokalizácia (i18n), jednotkové testovanie (unit testing)](zdroje/07-WT-laravel-technologie.pdf)
+
    - [PrezeJednoduchý manažér úloh - ďalšie technológie ](zdroje/taskmanager-technologie.pptx)
    - [Jednoduchý manažér úloh - zdrojový kód](zdroje/tm-final.zip)
+
+8. [JavaScript Klient, WEB API](zdroje/08-WT-js-web-api.pdf)
+
+9. [WEB API pokr., CSR](zdroje/09-WT-web-api-csr.pdf)
