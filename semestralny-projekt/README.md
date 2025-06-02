@@ -127,13 +127,13 @@ Dokumentácia musí obsahovať minimálne tieto časti:
 
 ### 1. fáza projektu (max. 24 bodov)
 
-- skice všetkých obrazoviek používateľského rozhrania pre dané prípady použitia (max. 6 bodov)
-- šablóny vytvorené pre všetky požadované prípady použitia (max. 5b)
+- skice všetkých obrazoviek používateľského rozhrania pre dané prípady použitia (PNG/JPG súbory, max. 6 bodov)
+- šablóny vytvorené pre všetky požadované prípady použitia (HTML súbory, max. 5b)
 - responzívny dizajn (max. 5b)
 - správne použitie HTML5 elementov (max. 4b)
 - formátovanie a logická štruktúra zdrojového kódu,
   konzistencia/jednotná konvencia pri názvosloví identifikátorov (max. 2b)
-- UML diagram fyzického dátového modelu (max. 2b)
+- UML diagram fyzického dátového modelu (PNG/JPG súbor, max. 2b)
 
 ### 2. fáza projektu
 
